@@ -1,4 +1,4 @@
-# Country Layoffs SQL Project ()
+#C ountry Layoffs SQL Project ()
    
  this project focuses on analyzing *total layoffs by Country* Using SQL.
  The Dataset was cleaned and analyzed to explore trends, patterns, and 
